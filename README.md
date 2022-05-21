@@ -1,5 +1,5 @@
 ## Hi! I'm Lee Shuoan
-- 👋 I'm interested in web development and data analytics
+- 👋 I'm interested in software development and data analytics
 - 🤝 I'm open to network and am looking to collaborate on fun development projects 
 - 🌐 View my projects at my <a href='https://leeshuoan.netlify.app'>website</a>
 - 📝 Connect with me on <a href='https://www.linkedin.com/in/lee-shuoan/'>Linkedin</a> 
