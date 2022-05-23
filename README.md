@@ -1,7 +1,6 @@
 ## Hi! I'm Lee Shuoan
 - 👋 I'm interested in software development and data analytics
 - 🤝 I'm open to network and am looking to collaborate on fun development projects 
-- 🌐 View my projects at my <a href='https://leeshuoan.netlify.app' target="_blank">website</a>
 - 📝 Connect with me on <a href='https://www.linkedin.com/in/lee-shuoan/' target="_blank">Linkedin</a> 
 - 📫 Reach out to me at <a href='mailto:shuoan.lee.2020@smu.edu.sg'>shuoan.lee.2020@smu.edu.sg</a>
 ### Languages and tools
