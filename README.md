@@ -3,7 +3,7 @@
 - 🤝 I'm open to learn and collaborate with others 
 
 ### Github Stats
-| <a href='https://github.com/anuraghazra/github-readme-stats#github-stats-card'><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=leeshuoan&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"><img src="https://github-readme-stats.vercel.app/api?username=leeshuoan&count_private=true&show_icons=true&theme=buefy&hide_border=true" alt="Shuoan's GitHub Stats."></picture></a> | <a href='https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-dark-mode-only'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeshuoan&langs_count=6&hide=FreeMarker,PureBasic,html,css,Jupyter%20Notebook&layout=compact&theme=tokyonight&hide_border=true" alt="Shuoan's GitHub Stats."></a><a href='https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-light-mode-only'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeshuoan&langs_count=6&hide=FreeMarker,PureBasic,html,css,Jupyter%20Notebook&layout=compact&theme=buefy&hide_border=true" alt="Shuoan's GitHub Stats."></a> |
+| <a href='https://github.com/anuraghazra/github-readme-stats#github-stats-card'><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=leeshuoan&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"><img src="https://github-readme-stats.vercel.app/api?username=leeshuoan&count_private=true&show_icons=truee&hide_title=true&theme=buefy&hide_border=true" alt="Shuoan's GitHub Stats."></picture></a> | <a href='https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-dark-mode-only'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeshuoan&langs_count=6&hide=FreeMarker,PureBasic,html,css,Jupyter%20Notebook&layout=compact&theme=tokyonight&hide_border=true" alt="Shuoan's GitHub Stats."></a><a href='https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-light-mode-only'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeshuoan&langs_count=6&hide=FreeMarker,PureBasic,html,css,Jupyter%20Notebook&layout=compact&theme=buefy&hide_border=true" alt="Shuoan's GitHub Stats."></a> |
 | ------------- | ------------- |
 > My Github Stat's cards are dynamically rendered for both dark and light mode.
 
@@ -12,6 +12,7 @@
 <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="25" /> 
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25" /> 
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="25" />
+<img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="25" />
 
 <sup>Frontend</sup><br>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25" /> 
@@ -30,3 +31,5 @@
 <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25" /> 
 <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" height="25" />
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="25" />
+<img alt="Terraform" src="https://img.shields.io/badge/-Terraform-purple?style=for-the-badge&logo=Terraform&logoColor=white" height="25"/>
+
