@@ -1,6 +1,12 @@
-### Hello! I'm Shuoan👋 
-I'm a Information Systems undergraduate student from SMU<br>
-Always open to learn and collaborate with others
+<h2 align="center">👋 Hello! I'm Shuoan</h2>
+
+<p align="center">
+I am currently a student at SMU pusuing my Bachelors of Science in Information Systems. I value simplicity & minimalism and love building products that are simple, intuitive, and easy to use. Interests in Cloud & DevOps & looking to contribute to Open Source
+</p>
+
+<p align="center">
+  Feel free to connect with me!
+</p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com?user=leeshuoan&theme=buefy&hide_border=true" alt="Shuoan's GitHub Main Stats."></a>
 <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com?user=leeshuoan&theme=tokyonight&hide_border=true" alt="Shuoan's GitHub Stats."></a>
