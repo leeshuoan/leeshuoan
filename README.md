@@ -2,11 +2,32 @@
 I'm a Information Systems undergraduate student from SMU<br>
 Always open to learn and collaborate with others
 
-### Github Stats
-| <a href='https://github.com/anuraghazra/github-readme-stats#github-stats-card'><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=leeshuoan&count_private=true&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true"><img src="https://github-readme-stats.vercel.app/api?username=leeshuoan&count_private=true&show_icons=true&hide_title=true&theme=buefy&hide_border=true" alt="Shuoan's GitHub Stats."></picture></a> | <a href='https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-dark-mode-only'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeshuoan&langs_count=6&hide=FreeMarker,PureBasic,html,css,Jupyter%20Notebook&layout=compact&theme=tokyonight&hide_border=true" alt="Shuoan's GitHub Stats."></a><a href='https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-light-mode-only'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeshuoan&langs_count=6&hide=FreeMarker,PureBasic,html,css,Jupyter%20Notebook&layout=compact&theme=buefy&hide_border=true" alt="Shuoan's GitHub Stats."></a> |
-| ------------- | ------------- |
+<a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-light-mode-only">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=leeshuoan&theme=buefy&hide_border=true&background=FFFFFF00" alt="Shuoan's GitHub Main Stats."></a><a href='https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-light-mode-only'>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-dark-mode-only">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=leeshuoan&theme=tokyonight&hide_border=true&background=FFFFFF00" alt="Shuoan's GitHub Stats."></a><a href='https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-light-mode-only'>
+</a>
 
-<!---
+### More Info! 
+<details>
+  <summary><b>Github Stats</b></summary> 
+  
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-light-mode-only">
+<img src="https://github-readme-stats.vercel.app/api?username=leeshuoan&count_private=true&show_icons=true&hide=issues&theme=buefy&hide_border=true" alt="Shuoan's GitHub Stats.">
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=leeshuoan&count_private=true&show_icons=true&hide=issues&theme=tokyonight&hide_border=true" alt="Shuoan's GitHub Stats.">
+</a>
+<a href='https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-dark-mode-only'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeshuoan&langs_count=6&hide=FreeMarker,PureBasic,html,css,Jupyter%20Notebook&layout=compact&theme=tokyonight&hide_border=true" alt="Shuoan's GitHub Top Languages"></a>
+<a href='https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-light-mode-only'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeshuoan&langs_count=6&hide=FreeMarker,PureBasic,html,css,Jupyter%20Notebook&layout=compact&theme=buefy&hide_border=true" alt="Shuoan's GitHub Top Languages"></a>
+</p>
+</details>
+
+<details>
+  <summary><b>Technical Stack</b></summary> 
+  <br/>
+  
 <sup>Languages</sup><br>
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25" /> 
 <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="25" /> 
@@ -33,4 +54,4 @@ Always open to learn and collaborate with others
 <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" height="25" />
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="25" />
 <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-purple?style=for-the-badge&logo=Terraform&logoColor=white" height="25"/>
---->
+</details>
