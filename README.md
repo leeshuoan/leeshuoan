@@ -3,10 +3,10 @@ I'm a Information Systems undergraduate student from SMU<br>
 Always open to learn and collaborate with others
 
 <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-light-mode-only">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=leeshuoan&theme=buefy&hide_border=true&background=FFFFFF00" alt="Shuoan's GitHub Main Stats."></a><a href='https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-light-mode-only'>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=leeshuoan&theme=buefy&hide_border=true" alt="Shuoan's GitHub Main Stats."></a><a href='https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-light-mode-only'>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-dark-mode-only">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=leeshuoan&theme=tokyonight&hide_border=true&background=FFFFFF00" alt="Shuoan's GitHub Stats."></a><a href='https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-light-mode-only'>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=leeshuoan&theme=tokyonight&hide_border=true" alt="Shuoan's GitHub Stats."></a><a href='https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-light-mode-only'>
 </a>
 
 ### More Info! 
