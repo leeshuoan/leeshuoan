@@ -55,3 +55,12 @@ Always open to learn and collaborate with others
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="25" />
 <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-purple?style=for-the-badge&logo=Terraform&logoColor=white" height="25"/>
 </details>
+
+<details>
+  <summary><b>Blog Posts</b></summary> 
+  <br/>
+  
+> I'm working on writing more... hopefully :"
+- [Scaling Machine Learning with Ray.io and AWS](https://medium.com/@shuoan/scaling-machine-learning-with-ray-io-and-aws-34e7a00f90b0)
+
+</details>
