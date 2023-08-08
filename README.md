@@ -2,23 +2,16 @@
 I'm a Information Systems undergraduate student from SMU<br>
 Always open to learn and collaborate with others
 
-<a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-light-mode-only">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=leeshuoan&theme=buefy&hide_border=true" alt="Shuoan's GitHub Main Stats."></a><a href='https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-light-mode-only'>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-dark-mode-only">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=leeshuoan&theme=tokyonight&hide_border=true" alt="Shuoan's GitHub Stats."></a><a href='https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-light-mode-only'>
-</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com?user=leeshuoan&theme=buefy&hide_border=true" alt="Shuoan's GitHub Main Stats."></a>
+<a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com?user=leeshuoan&theme=tokyonight&hide_border=true" alt="Shuoan's GitHub Stats."></a>
 
 ### More Info! 
 <details>
   <summary><b>Github Stats</b></summary> 
   
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-light-mode-only">
-<img src="https://github-readme-stats.vercel.app/api?username=leeshuoan&count_private=true&show_icons=true&hide=issues&theme=buefy&hide_border=true" alt="Shuoan's GitHub Stats.">
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=leeshuoan&count_private=true&show_icons=true&hide=issues&theme=tokyonight&hide_border=true" alt="Shuoan's GitHub Stats.">
-</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=leeshuoan&count_private=true&show_icons=true&hide=issues&theme=buefy&hide_border=true" alt="Shuoan's GitHub Stats."></a>
+<a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=leeshuoan&count_private=true&show_icons=true&hide=issues&theme=tokyonight&hide_border=true" alt="Shuoan's GitHub Stats."></a>
 <a href='https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-dark-mode-only'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeshuoan&langs_count=6&hide=FreeMarker,PureBasic,html,css,Jupyter%20Notebook&layout=compact&theme=tokyonight&hide_border=true" alt="Shuoan's GitHub Top Languages"></a>
 <a href='https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-light-mode-only'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeshuoan&langs_count=6&hide=FreeMarker,PureBasic,html,css,Jupyter%20Notebook&layout=compact&theme=buefy&hide_border=true" alt="Shuoan's GitHub Top Languages"></a>
 </p>
@@ -62,5 +55,4 @@ Always open to learn and collaborate with others
   
 > I'm working on writing more... hopefully :"
 - [Scaling Machine Learning with Ray.io and AWS](https://medium.com/@shuoan/scaling-machine-learning-with-ray-io-and-aws-34e7a00f90b0)
-
 </details>
