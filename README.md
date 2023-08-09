@@ -1,6 +1,6 @@
 <h2>👋 Hello! I'm Shuoan</h2>
 
-✨ I'm a student at SMU pusuing my Bachelors of Science in Information Systems
+✨ I'm a student at SMU pursuing my Bachelors of Science in Information Systems
 
 I value simplicity and minimalistic design and love building products that are easy to use. As someone who appreciates growth, I'm always keen on learning and embracing new technologies. When I'm not coding, you can find me climbing at a bouldering gym or travelling the world.
 
