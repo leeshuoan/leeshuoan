@@ -1,26 +1,18 @@
-<h2 align="center">👋 Hello! I'm Shuoan</h2>
+<h2>👋 Hello! I'm Shuoan</h2>
 
-<p align="center">
 I am currently a student at SMU pusuing my Bachelors of Science in Information Systems. I value simplicity & minimalism and love building products that are simple, intuitive, and easy to use. Interests in Cloud & DevOps & looking to contribute to Open Source
-</p>
 
-<p align="center">
   Feel free to connect with me!
-</p>
 
-<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com?user=leeshuoan&theme=buefy&hide_border=true" alt="Shuoan's GitHub Main Stats."></a>
 <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com?user=leeshuoan&theme=tokyonight&hide_border=true" alt="Shuoan's GitHub Stats."></a>
-</p>
 
 ### More Info! 
 <details>
   <summary><b>Github Stats</b></summary> 
   
-<a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=leeshuoan&count_private=true&show_icons=true&hide=issues&theme=buefy&hide_border=true" alt="Shuoan's GitHub Stats."></a>
-<a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=leeshuoan&count_private=true&show_icons=true&hide=issues&theme=tokyonight&hide_border=true" alt="Shuoan's GitHub Stats."></a>
-<a href='https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-dark-mode-only'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeshuoan&langs_count=6&hide=FreeMarker,PureBasic,html,css,Jupyter%20Notebook&layout=compact&theme=tokyonight&hide_border=true" alt="Shuoan's GitHub Top Languages"></a>
-<a href='https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-light-mode-only'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeshuoan&langs_count=6&hide=FreeMarker,PureBasic,html,css,Jupyter%20Notebook&layout=compact&theme=buefy&hide_border=true" alt="Shuoan's GitHub Top Languages"></a>
+| <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=leeshuoan&count_private=true&show_icons=true&hide=issues&theme=buefy&hide_border=true" alt="Shuoan's GitHub Stats."></a><a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=leeshuoan&count_private=true&show_icons=true&hide=issues&theme=tokyonight&hide_border=true" alt="Shuoan's GitHub Stats."></a>  |  <a href='https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-dark-mode-only'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeshuoan&langs_count=6&hide=FreeMarker,PureBasic,html,css,Jupyter%20Notebook&layout=compact&theme=tokyonight&hide_border=true" alt="Shuoan's GitHub Top Languages"></a><a href='https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-light-mode-only'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeshuoan&langs_count=6&hide=FreeMarker,PureBasic,html,css,Jupyter%20Notebook&layout=compact&theme=buefy&hide_border=true" alt="Shuoan's GitHub Top Languages"></a> |
+| --- | --- |
 </details>
 
 <details>
