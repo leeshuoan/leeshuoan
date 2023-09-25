@@ -1,8 +1,6 @@
-<h2>👋 Hello! I'm Shuoan</h2>
+<h2>Shuoan</h2>
 
-✨ I'm a student at SMU pursuing my Bachelors of Science in Information Systems
-
-I value simplicity and minimalistic design and love building products that are easy to use. As someone who appreciates growth, I'm always keen on learning and embracing new technologies. When I'm not coding, you can find me climbing at a bouldering gym or travelling the world.
+I'm a mess in distress
 
 <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com?user=leeshuoan&theme=buefy&hide_border=true" alt="Shuoan's GitHub Main Stats."></a>
 <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com?user=leeshuoan&theme=tokyonight&hide_border=true" alt="Shuoan's GitHub Stats."></a>
