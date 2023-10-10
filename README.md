@@ -38,9 +38,3 @@ I love my team, I love my crew
 ![Firebase](https://img.shields.io/badge/-Firebase-122f44?&logo=Firebase)
 ![Docker](https://img.shields.io/badge/-Docker-122f44?&logo=Docker)
 ![Terraform](https://img.shields.io/badge/-Terraform-122f44?&logo=Terraform)
-
-### Blog Posts
-  
-> I'm working on writing more... hopefully :"
-- [Scaling Machine Learning with Ray.io and AWS](https://medium.com/@shuoan/scaling-machine-learning-with-ray-io-and-aws-34e7a00f90b0)
-</details>
