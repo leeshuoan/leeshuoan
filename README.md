@@ -1,22 +1,16 @@
 <h2>Shuoan</h2>
 
-I'm a mess in distress
+I love my team, I love my crew
 
 <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com?user=leeshuoan&theme=buefy&hide_border=true" alt="Shuoan's GitHub Main Stats."></a>
 <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com?user=leeshuoan&theme=tokyonight&hide_border=true" alt="Shuoan's GitHub Stats."></a>
 
-### More Info! 
-
-<details>
-<summary><b>Github Stats</b></summary> 
+### Github Stats 
   
 | <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=leeshuoan&count_private=true&show_icons=true&theme=buefy&hide_border=true" alt="Shuoan's GitHub Stats."></a><a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=leeshuoan&count_private=true&show_icons=true=&theme=tokyonight&hide_border=true" alt="Shuoan's GitHub Stats."></a>  |  <a href='https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-dark-mode-only'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeshuoan&langs_count=6&hide=FreeMarker,PureBasic,html,css,Jupyter%20Notebook&layout=compact&theme=tokyonight&hide_border=true" alt="Shuoan's GitHub Top Languages"></a><a href='https://github.com/anuraghazra/github-readme-stats#github-stats-card#gh-light-mode-only'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeshuoan&langs_count=8&hide=FreeMarker,PureBasic,html,css,Jupyter%20Notebook&layout=compact&theme=buefy&hide_border=true" alt="Shuoan's GitHub Top Languages"></a> |
 | --- | --- |
-</details>
 
-<details>
-<summary><b>Technical Stack</b></summary> 
-<br/>
+### Technical Stack
 
 <sup>Languages</sup><br/>
 ![Python](https://img.shields.io/badge/-Python-122f44?&logo=Python)
@@ -44,11 +38,8 @@ I'm a mess in distress
 ![Firebase](https://img.shields.io/badge/-Firebase-122f44?&logo=Firebase)
 ![Docker](https://img.shields.io/badge/-Docker-122f44?&logo=Docker)
 ![Terraform](https://img.shields.io/badge/-Terraform-122f44?&logo=Terraform)
-</details>
 
-<details>
-<summary><b>Blog Posts</b></summary> 
-<br/>
+### Blog Posts
   
 > I'm working on writing more... hopefully :"
 - [Scaling Machine Learning with Ray.io and AWS](https://medium.com/@shuoan/scaling-machine-learning-with-ray-io-and-aws-34e7a00f90b0)
