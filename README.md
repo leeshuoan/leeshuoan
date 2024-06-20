@@ -1,6 +1,6 @@
 ### Shuoan ☁️
 
-Just a struggling student at SMU pursuing a Bachelor of Science in Information Systems. 
+Software Engineer at Goldman Sachs. Looking for job opportunities elsewhere (just kidding).
 
 * I'm interested in DevOps, and system design 
 * I love Samoyeds, they are fluffy white clouds
